@@ -1,0 +1,6 @@
+pandas~=1.4.2
+haversine~=2.5.1
+fastapi~=0.78.0
+pydantic~=1.9.1
+databases~=0.6.0
+SQLAlchemy~=1.4.37
